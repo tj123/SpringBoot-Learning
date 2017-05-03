@@ -1,0 +1,25 @@
+2016-07-20 14:23:35,845  INFO Application:48 ---- Starting Application on mianyuejiang-pc with PID 11608 (D:\demo\springboot\SpringBoot-Learning\Chapter4-2-4\target\classes started by mianyuejiang in D:\demo\springboot\SpringBoot-Learning\Chapter4-2-4)
+2016-07-20 14:23:35,847 DEBUG Application:51 ---- Running with Spring Boot v1.3.2.RELEASE, Spring v4.2.4.RELEASE
+2016-07-20 14:23:35,848  INFO Application:666 ---- No active profile set, falling back to default profiles: default
+2016-07-20 14:23:39,592  INFO Application:57 ---- Started Application in 4.079 seconds (JVM running for 4.465)
+2016-07-20 14:25:28,702  INFO WebLogAspect:46 ---- URL : http://localhost:8080/hello
+2016-07-20 14:25:28,704  INFO WebLogAspect:47 ---- HTTP_METHOD : GET
+2016-07-20 14:25:28,705  INFO WebLogAspect:48 ---- IP : 0:0:0:0:0:0:0:1
+2016-07-20 14:25:28,707  INFO WebLogAspect:49 ---- CLASS_METHOD : com.didispace.web.HelloController.hello
+2016-07-20 14:25:28,707  INFO WebLogAspect:50 ---- ARGS : [22]
+2016-07-20 14:25:28,717  INFO WebLogAspect:57 ---- RESPONSE : Hello 22
+2016-07-20 14:25:28,718  INFO WebLogAspect:58 ---- SPEND TIME : 16
+2016-07-20 15:21:42,906  INFO Application:48 ---- Starting Application on mianyuejiang-pc with PID 14908 (D:\demo\springboot\SpringBoot-Learning\Chapter4-2-4\target\classes started by mianyuejiang in D:\demo\springboot\SpringBoot-Learning\Chapter4-2-4)
+2016-07-20 15:21:42,908 DEBUG Application:51 ---- Running with Spring Boot v1.3.2.RELEASE, Spring v4.2.4.RELEASE
+2016-07-20 15:21:42,909  INFO Application:666 ---- No active profile set, falling back to default profiles: default
+2016-07-20 15:22:05,712  INFO Application:48 ---- Starting Application on mianyuejiang-pc with PID 1824 (D:\demo\springboot\SpringBoot-Learning\Chapter4-2-4\target\classes started by mianyuejiang in D:\demo\springboot\SpringBoot-Learning\Chapter4-2-4)
+2016-07-20 15:22:05,714 DEBUG Application:51 ---- Running with Spring Boot v1.3.2.RELEASE, Spring v4.2.4.RELEASE
+2016-07-20 15:22:05,714  INFO Application:666 ---- No active profile set, falling back to default profiles: default
+2016-07-20 15:22:09,389  INFO Application:57 ---- Started Application in 4.007 seconds (JVM running for 4.411)
+2016-07-20 15:22:39,445  INFO WebLogAspect:46 ---- URL : http://localhost:8080/hello
+2016-07-20 15:22:39,445  INFO WebLogAspect:47 ---- HTTP_METHOD : GET
+2016-07-20 15:22:39,446  INFO WebLogAspect:48 ---- IP : 0:0:0:0:0:0:0:1
+2016-07-20 15:22:39,447  INFO WebLogAspect:49 ---- CLASS_METHOD : com.didispace.web.HelloController.hello
+2016-07-20 15:22:39,448  INFO WebLogAspect:50 ---- ARGS : [xuehanxin]
+2016-07-20 15:22:39,461  INFO WebLogAspect:57 ---- RESPONSE : Hello xuehanxin
+2016-07-20 15:22:39,461  INFO WebLogAspect:58 ---- SPEND TIME : 16
