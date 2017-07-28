@@ -56,10 +56,12 @@
     <module>Chapter9-1-2/eureka-feign</module>
     <module>Chapter9-1-2/eureka-ribbon</module>
     
-    <module>Chapter9-1-3/compute-service</module>
-    <module>Chapter9-1-3/eureka-server</module>
-    <module>Chapter9-1-3/eureka-feign</module>
-    <module>Chapter9-1-3/eureka-ribbon</module>
+    <!--<module>Chapter9-1-3/compute-service</module>-->
+    <!--<module>Chapter9-1-3/eureka-server</module>-->
+    <!--<module>Chapter9-1-3/eureka-feign</module>-->
+    <!--<module>Chapter9-1-3/eureka-ribbon</module>-->
+    
+    <module>Chapter9-1-3</module>
     
     <module>Chapter9-2-1</module>
     
